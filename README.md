@@ -7,5 +7,6 @@ Burada bulunan ilanları python beautifulsoup ve django-requests kullanarak çek
 
 ![bs_project – main2 py 16 03 2023 22_57_22](https://user-images.githubusercontent.com/76753651/225739387-e9089197-dd61-42a1-bf54-96452fa87d27.png)
 
-Daha sonra yaptğım adımları koda yorum satırı olarak ekledim
+Daha sonra yaptğım adımları koda yorum satırı olarak ekledim.
+
 Herkese iyi çalışmalar dilerim...
